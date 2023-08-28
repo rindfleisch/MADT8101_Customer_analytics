@@ -1,5 +1,3 @@
-# MADT8101
-
 # Customer Lifetime Value (CLV) 
 
 ![Slide 1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/803bbc4a-f291-4642-bf7f-06639a777f2e)
