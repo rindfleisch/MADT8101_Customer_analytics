@@ -1,5 +1,3 @@
-# MADT8101
-
 # Customer Data Platform (CDP) Design
 ![Slide 1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/22e19aa7-8085-4e7b-becf-bd7e3d25c05f)
 ![Slide 2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/2150206a-dd8d-41bd-ae4c-cad58b220607)
