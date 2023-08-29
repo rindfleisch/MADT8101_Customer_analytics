@@ -11,7 +11,7 @@ topic modeling with LDA is about discovering hidden topics within documents, whi
 ## Data
 ![package](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/8e4ad35a-c700-4d6d-aec2-f4226d16263c)
 
-[The reviews]([www.urlbase.com](https://www.klook.com/th/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/?spm=Home.Popular%3Aany%3A%3APopularActivities%3ACard_LIST&clickId=1b43082dd5)https://www.klook.com/th/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/?spm=Home.Popular%3Aany%3A%3APopularActivities%3ACard_LIST&clickId=1b43082dd5) of the above package have been used for the analytics
+[The reviews](https://www.klook.com/th/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/?spm=Home.Popular%3Aany%3A%3APopularActivities%3ACard_LIST&clickId=1b43082dd5) of the above package have been used for the analytics
 
 ## Topic modeling with LDA
 Applying LDA topic modeling to Klook reviews enhances understanding of customer sentiment and preferences, enabling personalized recommendations and service improvements. Below is Intertopic Distance Map and Top-30 Most Relevant Terms for Topic 1, 2 and 3 visualization
