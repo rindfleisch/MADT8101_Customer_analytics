@@ -1,4 +1,4 @@
-# Customer Data Platform (CDP) Design
+# Customer Single View (SVOC) Design
 ![Slide 1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/22e19aa7-8085-4e7b-becf-bd7e3d25c05f)
 ![Slide 2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/2150206a-dd8d-41bd-ae4c-cad58b220607)
 ![Slide 3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f6bc1130-9c15-43c0-94b3-219b62ed4b5e)
