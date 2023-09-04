@@ -1,6 +1,7 @@
 # Klook's Voice of Customers
 
-![Logo_rgb](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/bad4d24f-1976-438d-9831-ee74f10d3151)
+![Logo_rgb](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f326e52b-e77b-4483-b09b-262f3ad9d703)
+
 
 ## Objective
 Topic modeling(LDA) and Document clustering for Klook's Universal Studios Japan Studio Pass customer reviews
@@ -9,18 +10,22 @@ Topic modeling(LDA) and Document clustering for Klook's Universal Studios Japan 
 topic modeling with LDA is about discovering hidden topics within documents, while document clustering is about grouping documents based on their overall content similarity.
 
 ## Data
-![package](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/8e4ad35a-c700-4d6d-aec2-f4226d16263c)
+![package](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/bb7782e3-de3c-4379-bbf8-fdd8580770a8)
+
 
 [The reviews](https://www.klook.com/th/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/?spm=Home.Popular%3Aany%3A%3APopularActivities%3ACard_LIST&clickId=1b43082dd5) of the above package have been used for the analytics
 
 ## Topic modeling with LDA
 Applying LDA topic modeling to Klook reviews enhances understanding of customer sentiment and preferences, enabling personalized recommendations and service improvements. Below is Intertopic Distance Map and Top-30 Most Relevant Terms for Topic 1, 2 and 3 visualization
 
-![v1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/33f2a05c-a24c-4a42-9d5b-6e244f28dda6)
+![v1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f01ae7a6-d5a4-4c06-ab29-62a23fe23d7f)
 
-![v2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/6b5b306c-1df5-400f-96bb-704c39e0e30d)
 
-![v3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/465cff2a-bebe-4bfc-89b2-dd4a2d269675)
+![v2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/e9f283c1-ee6b-42b0-8803-08fb0902243c)
+
+
+![v3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/c058673b-deee-473b-9b03-19455d25792e)
+
 
 The majority of the comments revolve around the ticket, highlighting its convenience and value proposition
 
@@ -32,7 +37,8 @@ Before proceeding, methods for finding optimal k was processed which are Elbow a
 
 ![k-means](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/3db2b0b0-a228-4135-8962-a0334a348716)
 
-![silhoe](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/2add5c2b-6fe7-4731-a27e-48dd1843e93f)
+![silhoe](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/3c5e0b3d-0c0e-494a-9b06-bfbbde2c7413)
+
 
 Both methods are in complete alignment, firmly indicating that the most suitable value for k is 2.
 
