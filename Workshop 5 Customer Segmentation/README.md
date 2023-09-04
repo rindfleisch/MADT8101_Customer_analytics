@@ -1,37 +1,32 @@
 # HDI Customer Segmentation
 
-![1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/a4cb4516-2fa0-42ec-b369-085e26a6159a)
+![1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/72eb704f-8592-4418-bab8-022e87bae874)
 
-![2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/aaa6f72b-74a5-4154-bd1a-d4d4609216ea)
+![2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/45fb307e-1cf8-4c7f-a3c9-c037ef4f8a01)
 
-![3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/6b2feecb-3acf-4352-8804-af4318aa6550)
+![3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/595240fc-bb0a-486a-bd40-5596fc05384a)
 
-![4](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/4686a097-9091-44d0-98ba-8eb77ba27c6a)
+![4](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/98a0dc38-09c1-4440-bd56-e9dda04f82ba)
 
-![5](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/45e37dba-f0bd-45aa-a728-1597fec6d18a)
+![5](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/b02b44d2-5bdf-4c65-9a1a-a503ad99f2f2)
 
-![6](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/7773cd81-3365-4eea-8a39-3615062500b0)
+![6](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/fd0b8ef2-1675-4d5e-8fe4-855b207ac9cb)
 
-![7](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/365d6b76-5ceb-4525-914f-820d7eb5fee9)
+![7](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/cdf77136-b4bc-4c44-a097-ba9cb843ebfe)
 
-![8](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/2620b83d-9695-4a69-a3dd-65ae2ef4b1ef)
+![8](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/a09a348c-b2bb-4e63-bc92-c789ec74e38a)
 
-![9](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/73e760ce-16cf-461a-bdef-2f35d9c43423)
+![9](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/e4274a18-534b-43e6-bc40-2d31ab80429c)
 
-![10](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/55c7f63f-9db8-4266-923a-d61908f39c4e)
+![10](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/6862b3cf-98d6-458c-bd8d-32f76e8775c6)
 
-![11](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/eb4fa018-caeb-4070-aab2-fcc0f76cb265)
+![11](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/9572047f-8dcd-4ca9-abe7-bf6c26b8d840)
 
-![12](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/44bbe6f3-1838-4301-990c-2cd6042caf40)
+![12](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/215eb1d4-7a4d-46b5-a313-3891d23aa527)
 
-![13](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/5f217e9c-28e8-412b-a520-c647b42e3538)
+![13](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/c67cd6eb-6b40-4901-b5d5-a64dbf3469e7)
 
-![14](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/d458b2a8-6d8e-4b12-a61f-1a6dcd52c177)
-
-
-
-
-
+![14](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/975a037f-a0ca-448a-a3cd-3c29afe47f5a)
 
 
 
