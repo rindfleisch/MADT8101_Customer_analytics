@@ -5,47 +5,37 @@
 
 ## EDA
 
-![output](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/608a10d9-7be3-4500-9d87-20eefb35e626)
+![output](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/5aecb2a1-e6ca-4431-8e2d-1d12b3f44577)
 
+![output1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/7b9c250a-2f54-43e1-acee-87f4d8de1730)
 
-![output1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/2a8583cf-e432-43b5-b7b2-ed6879e4ef1a)
+![output2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/a1a0d35c-4a8f-4c47-bf9a-cf6ad2d1c0d8)
 
+![output3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/8c88bacb-ac0f-423d-bcd6-e5f75e20c412)
 
-![output2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/3d629fcf-3fa8-4504-91d5-3b38ca1d74ce)
+![output4](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/9bf94f33-67e6-4e0f-8046-53855a180d83)
 
+![output5](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/68c76ea8-2993-4122-b280-3243a8b76a4c)
 
-![output3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/59847c30-4938-4d6e-8e30-d745f9b19e09)
+![output6](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f07fe985-1dce-49c8-a178-1fe0adc16a8b)
 
+![output7](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/073c6d7e-5686-4ff7-8bdd-e4e93bb44fc4)
 
-![output4](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/2b867aa5-7507-4e95-81bb-35fc0aa72f1f)
+![output8](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/d030827e-eb82-4584-b23f-1f0762a097ab)
 
+![output9](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/6ef2cacf-103d-4b89-a453-f45dacc6f7b7)
 
-![output5](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f89ff958-6631-49b5-9d8f-ae7aacf51d3c)
-
-
-![output6](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f4d41a12-9da0-464c-a9d6-c9df23b4f74d)
-
-
-![output7](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/aa797fec-9024-48b3-87ff-6c7943a8b7eb)
-
-
-![output8](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/acc8d225-1731-43a3-927b-4127876daf13)
-
-
-![output9](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/c2824301-c90c-4f3b-90b6-464bea6a926f)
-
-
-![output10](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/6d0e0319-1fbc-4c76-ab50-92746cc9fa4b)
-
-
+![output10](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f429cfd0-b2bb-44dc-a21e-d991f0b7a967)
 
 ## Model Creation and Evaluation
 
-![output11](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/a87b9593-78d8-4789-9ab6-2f878ba0909a)
+![output11](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/77ba0f69-1856-4537-b6c4-a83dfe3bef22)
 
-![output12](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/c5edb949-5b3d-4709-b812-178aecbbf083)
+![output12](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/02025a47-c43b-4d4a-8702-1d2a26eebcb0)
 
-![output13](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/4e3f9e42-12b3-4a1b-90fe-de7227f0700b)
+
+![output13](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/0d450f27-0039-48c6-8236-3237b94f9ea6)
+
 
 
 The best it could do is Random forest using SMOTE which gives   
