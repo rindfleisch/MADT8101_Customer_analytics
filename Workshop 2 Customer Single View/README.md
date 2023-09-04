@@ -1,11 +1,11 @@
 # Customer Single View (SVOC) Design
-![Slide 1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/22e19aa7-8085-4e7b-becf-bd7e3d25c05f)
-![Slide 2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/2150206a-dd8d-41bd-ae4c-cad58b220607)
-![Slide 3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/f6bc1130-9c15-43c0-94b3-219b62ed4b5e)
-![Slide 4](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/cc444f93-c937-450b-b480-324f0b1d4e1e)
-![Slide 5](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/39ba19f4-4237-45fa-859c-ee111a199547)
-![Slide 6](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/133944c2-c7a2-45cf-8c49-a4b91f1b663d)
-![Slide 7](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/aa28a150-ad59-4d12-87bd-2c7f4ee539cd)
-![Slide 8](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/3421f5a2-9815-461a-981d-58bed3202fb9)
 
+![Slide 1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/e404d114-bba1-4bfa-b55d-d361df1ca311)
+![Slide 2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/a69c42f8-1a60-4827-b1e4-63ece35868eb)
+![Slide 3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/02ccb2bf-ab62-4703-a9e5-ea2985a59d82)
+![Slide 4](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/8b3ffea8-6cb3-442d-bca9-0047dc9af3db)
+![Slide 5](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/ac08060b-2501-4168-a9ee-ee932691cee0)
+![Slide 6](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/0ad2bf01-08f4-416c-aff9-c22f4eb0c2a1)
+![Slide 7](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/e86ccb12-2b0f-4cb5-b61d-dda0aa42820a)
+![Slide 8](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/70c225e9-88a0-4a56-baea-a9c4ddaa97f3)
 
