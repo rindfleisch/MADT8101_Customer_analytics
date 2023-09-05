@@ -35,7 +35,7 @@ Model universal-sentence-encoder-multilingual/3 has been used and embeded the co
 ### K-means
 Before proceeding, methods for finding optimal k was processed which are Elbow and Silhouette 
 
-![k-means](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/3db2b0b0-a228-4135-8962-a0334a348716)
+![k-means](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/38fb51be-39cf-4ae2-8736-fc68b3bfc88e)
 
 ![silhoe](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/3c5e0b3d-0c0e-494a-9b06-bfbbde2c7413)
 
