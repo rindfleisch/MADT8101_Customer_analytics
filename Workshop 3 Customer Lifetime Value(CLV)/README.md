@@ -1,5 +1,11 @@
 # Customer Lifetime Value (CLV) 
 
+## What is CLV?
+
+Customer Lifetime Value (CLV) measures the projected total revenue a business can derive from a customer over their entire interaction with the company. By considering past purchase history and the duration of the customer relationship, CLV assists in strategic decisions such as customer acquisition and retention efforts. It empowers businesses to identify and prioritize high-value customers, allocate resources efficiently, and tailor marketing strategies to maximize long-term profitability. Understanding CLV is crucial for building lasting customer relationships and sustainable business growth.
+
+## Swensen's Customer Lifetime Value
+
 ![Slide 1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/8b98ac66-4a00-4a29-a253-6e527cb1ebbc)
 ![Slide 2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/b2db36a2-b9d2-481c-a132-faa988509ffb)
 ![Slide 3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/327c2452-55c0-48a7-a847-98ecef85285a)
