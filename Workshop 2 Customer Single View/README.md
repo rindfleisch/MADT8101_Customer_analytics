@@ -1,5 +1,10 @@
 # Customer Single View (SVOC) Design
 
+## What is SVOC?
+
+Single View of Customer (SVOC) is a unified and comprehensive customer profile that consolidates data from various sources, enabling organizations to better understand and engage with their customers for personalized experiences and informed decision-making.
+
+## SVOC of Supermarket data
 ![Slide 1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/e404d114-bba1-4bfa-b55d-d361df1ca311)
 ![Slide 2](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/a69c42f8-1a60-4827-b1e4-63ece35868eb)
 ![Slide 3](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/02ccb2bf-ab62-4703-a9e5-ea2985a59d82)
