@@ -1,6 +1,8 @@
 # MADT8101 Customer Analytics
 [Workshop 1 - Customer Data Platform Workshop](https://github.com/rindfleisch/MADT8101_Customer_analytics/tree/main/Workshop%201%20Customer%20Data%20Platform(CDP))
 
+[![](https://img.shields.io/badge/-Concept-blue)](#)
+
 [Workshop 2 - Customer Single View Workshop](https://github.com/rindfleisch/MADT8101_Customer_analytics/tree/main/Workshop%202%20Customer%20Single%20View)
 
 [Workshop 3 - CLV Workshop](https://github.com/rindfleisch/MADT8101_Customer_analytics/tree/main/Workshop%203%20Customer%20Lifetime%20Value(CLV)) 
