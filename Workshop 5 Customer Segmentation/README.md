@@ -1,4 +1,10 @@
-# HDI Customer Segmentation
+# Customer Segmentation
+
+## What is Customer Segmentation
+
+Customer segmentation involves categorizing a company's customers into distinct groups based on shared traits or behaviors, enabling personalized marketing and better-tailored products and services to meet each group's specific needs and preferences.
+
+## HDI Customer Segmentation
 
 ![1](https://github.com/rindfleisch/MADT8101_Customer_analytics/assets/82042221/72eb704f-8592-4418-bab8-022e87bae874)
 
